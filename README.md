@@ -10,9 +10,9 @@ What are you waiting for? Hit Download and open up Facebook App on your Windows 
 
 ## Installation
 
-To get Facebook desktop for Windows, you can [Download Facebook desktop installer]().
+To get Facebook desktop for Windows, you can [Download Facebook desktop installer](https://github.com/OlegMatuykin/facebook-desktop/releases/download/v1.0.0/Facebook.desktop.install.exe).
 
-Or you can check the [releases]() page.
+Or you can check the [releases](https://github.com/OlegMatuykin/facebook-desktop/releases) page.
 
 ## Usage
 
